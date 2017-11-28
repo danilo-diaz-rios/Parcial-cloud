@@ -17,7 +17,7 @@
 
 ## Instalacion de Munin
 
-**Intalamos Munin en el name_web_server**
+**Intalamos Munin en el name_web_server
 
 **utilizamos el sguiente comando en nuestra terminal:**
 
@@ -27,6 +27,6 @@
 
 **Regresamos a la carpeta dockerfile y ejecutamos el siguiente comando:**
 
-`service start apache2`
+`service apache2 start`
 
 Despues ingresamos nuevamente por medio del navegador web a la ruta `127.0.0.1`
