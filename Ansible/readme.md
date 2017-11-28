@@ -19,7 +19,7 @@
 
 **Intalamos Munin en el name_web_server**
 
-**utilizamos el sguiente comando en nuestra terminal: **
+**utilizamos el sguiente comando en nuestra terminal:**
 
 `ansible-playbook -i hosts install_munin.yml`
 
