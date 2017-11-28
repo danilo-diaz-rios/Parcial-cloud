@@ -1,4 +1,4 @@
-# Pasos para ejecutar el Dpcker
+# Pasos para ejecutar el Docker
 
 Paso 1: Ingresar por medio de la terminal a la carpeta dockerfile y ejecutar los pasos ahí dentro.
 
