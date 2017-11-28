@@ -24,12 +24,12 @@ Ahora debes crear una maquinas para el despliegue, se creará  un servidor Apach
 
 **Usamos los siguientes comandos en nuestra consola:** 
 
-`ssh -o StrictHostKeyChecking=no root@127.0.0.1 -p 2221 -i key.private hostname`
+                          `ssh -o StrictHostKeyChecking=no root@127.0.0.1 -p 2221 -i key.private hostname`
 
 ## Cuarto paso, confirmación
 
 Realiza una prueba de conexión a la maquina que se creó recientemente.
 
-`ssh root@127.0.0.1 -p 2221 -i ../key.private`
+                                        `ssh root@127.0.0.1 -p 2221 -i ../key.private`
 
 Si la conexión se establece, ya está listo el banco de pruebas y puedes ingresar a ansible.
