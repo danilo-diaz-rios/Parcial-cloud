@@ -18,7 +18,7 @@ Ahora debes crear una maquinas para el despliegue, se creará  un servidor Apach
 
 `docker run -d -P --name name_web_server -p 2221:22 -p 80:80 nameserver:16.04`
 
-## tercer paso, dar permiso y adicionar las llaves
+## Tercer paso, dar permiso y adicionar las llaves
 
 `chmod 0600 key.private`
 
