@@ -1,6 +1,6 @@
 # Configuraciones básicas y creación de dockers de prueba
 
-## Primer paso
+## Primer paso, imagen
 
 Debes construir un docker personalizado que incluye el servidor open ssh
 
