@@ -17,7 +17,7 @@
 
 ## Instalacion de Munin
 
-**Intalamos Munin en el name_web_server
+Intalamos Munin en el name_web_server
 
 **utilizamos el sguiente comando en nuestra terminal:**
 
